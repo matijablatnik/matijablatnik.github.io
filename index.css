@@ -1,0 +1,36 @@
+#nav {
+  color: red;
+  text-align: center;
+  font-size: 120;
+
+}
+
+#telo {
+  padding: 4%;
+  background-color: white;
+
+  margin: 5%;
+  font-family: 'Tillana', cursive;
+  -webkit-box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 44px 0px rgba(0,0,0,0.75);
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+  background-color: #b3cccc;
+  color: black;
+  border-radius: 7px;
+  -webkit-box-shadow: 0px 0px 92px 2px rgba(73,214,179,1);
+  -moz-box-shadow: 0px 0px 92px 2px rgba(73,214,179,1);
+  box-shadow: 0px 0px 92px 2px rgba(73,214,179,1);
+}
+
+body {
+background-color: #ccffe6;
+}
+
+h1 {
+  text-align: center;
+}
